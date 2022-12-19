@@ -3,7 +3,7 @@
 
 
 
-##Contributors
--Bernard B. Sakyi
--Hope Davids
+## Contributors
+- Bernard B. Sakyi
+- Hope Davids
 
